@@ -50,7 +50,7 @@ const About = () => {
   });
   return (
     <div className={styles.about}>
-      <Container>
+      <Container fluid>
         <div className={styles.header}>
           <h2>Abouts Us</h2>
           <span>

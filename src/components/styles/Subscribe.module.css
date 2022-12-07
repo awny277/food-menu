@@ -1,0 +1,42 @@
+.Subscribe {
+  padding: 20px 0 ;
+}
+.center {
+  align-items: center;
+  justify-content: space-between;
+}
+.input_section {
+  border: 1px solid #D9D9D9;
+  border-radius: 2px 0px 0px 2px;
+  
+}
+.input_section input{
+  width: 80%;
+  padding: 10px;
+  border: navajowhite;
+  background-color: transparent;
+  color: white;
+}
+.input_section button {
+  padding: 10px;
+  background-color: #D9D9D9;
+  /* color: white; */
+  border: none;
+  width: 20%;
+}
+.Social_Media {
+  background-color: #171719;
+  padding: 50px;
+}
+.links svg {
+  font-size: 25px;
+  margin: 4px 17px 4px 0px;
+}
+.sub_heading {
+  font-weight: 900;
+  font-size: 35px;
+  line-height: 38px;
+  text-transform: capitalize;
+  color: #898888;
+  /* text-align: center; */
+}
