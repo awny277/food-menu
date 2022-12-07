@@ -1,0 +1,173 @@
+.Home_Header {
+  position: relative;
+  /* background-image: url(../../images/Rectangle.svg);
+  mix-blend-mode: soft-light; */
+  /* mix-blend-mode: soft-light; */
+  background: linear-gradient(180deg, rgba(36, 31, 31, 0.4) 36.34%, rgba(20, 30, 81, 0) 130.33%), radial-gradient(45.55% 59.5% at 52.43% 91.95%, rgba(255, 255, 255, 0.2) 0%, rgba(0, 0, 0, 0) 100%)
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #070707;
+
+}
+
+.center {
+  align-items: center;
+}
+
+.section_1 {
+  margin-bottom: 300px;
+}
+
+.section_1 h3 {
+  font-size: 24px;
+}
+
+.section_1 span {
+  opacity: 0.5;
+  font-weight: 500;
+}
+
+.P_opcity {
+  opacity: 0.5;
+  font-weight: 100;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-size: 16px;
+  line-height: 19px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* 
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ */
+.section_2 h1 {
+  font-size: 64px;
+}
+
+.section_2 h1 span {
+  font-family: 'Sacramento';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+  color: #DEC700;
+}
+
+.rightLinks {
+  position: absolute;
+  right: 0;
+  bottom: 60%;
+  background-color: #DEC700;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 5px 30px 15px;
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.5);
+  border-radius: 40px 0 0 40px;
+  -webkit-border-radius: 40px 0 0 40px;
+  -moz-border-radius: 40px 0 0 40px;
+  -ms-border-radius: 40px 0 0 40px;
+  -o-border-radius: 40px 0 0 40px;
+}
+
+.rightLinks svg {
+  font-size: 25px;
+  margin: 10px;
+}
+
+.Header_slick {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+  background: radial-gradient(130.88% 204.15% at 43.33% 130.88%, rgba(255, 255, 255, 0.05) 0%, rgba(0, 0, 0, 0) 100%)
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , rgba(23, 23, 25, 0.8);
+}
+
+.Header_slick .Slick {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Header_slick .info {
+  padding: 30px;
+
+}
+
+.Header_slick .content {
+  display: flex;
+}
+
+.Header_slick h5 {
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.Header_slick p {
+  font-weight: 100;
+  font-size: 12px;
+  line-height: 14px;
+  opacity: 0.5;
+}
+
+.Header_slick .slickDots {
+  /* list-style-type: none; */
+  display: flex;
+  justify-content: center;
+}
+
+.Header_slick .slickDots span:nth-of-type(1) {
+  background-color: white;
+}
+
+.Header_slick .slickDots span {
+  width: 10px;
+  height: 10px;
+  /* background-color: white; */
+  background: #555555;
+  margin: 2px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.Header_slick .slick_name p {
+  width: 60%;
+}
+
+.Header_slick .price {
+  flex-basis: 40%;
+}
+
+.Header_slick .discount {
+  display: flex;
+
+}
+
+.Header_slick .discount h4 {
+  font-size: 20px;
+  line-height: 23px;
+  margin-right: 10px;
+}
+
+.Header_slick .discount del {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  text-decoration-line: line-through;
+
+  color: #DEDEDE;
+}
+
+.Header_slick .price button {
+  padding: 10px;
+  color: white;
+  background: #DEC700;
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.25);
+  border-radius: 2px;
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import styles from "../../../styles/Home.module.css";
+import styles from "../../../styles/Header.module.css";
 import Rectangle3 from "../../../../images/Rectangle 3.svg";
 import Rectangle4 from "../../../../images/Rectangle 4.svg";
 import image2 from "../../../../images/pngwing 1.svg";
@@ -19,7 +19,7 @@ const Header = () => {
         <Row className={styles.center}>
           <Col>
             <div className={styles.section_1}>
-              <h3 sty>
+              <h3>
                 <span>01</span>/02
               </h3>
               <h3>Ananas</h3>
