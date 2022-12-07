@@ -6,34 +6,34 @@ export const FavoutiteProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 19-2.svg",
   },
   {
     id: 2,
-    name: "Banana",
+    name: "Orange",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 20-3.svg",
   },
   {
     id: 3,
-    name: "Banana",
+    name: "Pinaple",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 21-2.svg",
   },
   {
     id: 4,
-    name: "Banana",
+    name: "Apple",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 22-2.svg",
   },
 ];
 
@@ -49,65 +49,65 @@ export const FruitProducts = [
   },
   {
     id: 2,
-    name: "Banana",
+    name: "Orange",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 20-1.svg",
   },
   {
     id: 3,
-    name: "Banana",
+    name: "Pinaple",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 21.svg",
   },
   {
     id: 4,
-    name: "Banana",
+    name: "Apple",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 22.svg",
   },
   {
     id: 5,
-    name: "Banana",
+    name: "Cherry",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 19-1.svg",
   },
   {
     id: 6,
-    name: "Banana",
+    name: "Melon",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 20-2.svg",
   },
   {
     id: 7,
-    name: "Banana",
+    name: "Strawberries",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 21-1.svg",
   },
   {
     id: 8,
-    name: "Banana",
+    name: "Avocado",
     description:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 22-1.svg",
   },
 ];
