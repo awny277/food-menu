@@ -111,3 +111,33 @@ export const FruitProducts = [
     image: "Rectangle 22-1.svg",
   },
 ];
+
+export const Partners = [
+  {
+    id: 1,
+    name: "Maria",
+    stars: 5,
+    info:
+      "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    image: "Ellipse 8.svg",
+    icon: 8,
+  },
+  {
+    id: 2,
+    name: "Maria",
+    stars: 5,
+    info:
+      "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    image: "Ellipse 8-1.svg",
+    icon: 8,
+  },
+  {
+    id: 3,
+    name: "Maria",
+    stars: 5,
+    info:
+      "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    image: "Ellipse 8-2.svg",
+    icon: 8,
+  },
+];
