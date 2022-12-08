@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import { AiFillStar } from "react-icons/ai";
 import { HiOutlineArrowSmRight, HiOutlineArrowSmLeft } from "react-icons/hi";
 import ReactStars from "react-stars";
 import { Partners } from "../../../json/Products";

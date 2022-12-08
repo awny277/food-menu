@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import styles from "../../styles/ProductCard.module.css";
 // import image from "../../../images/Rectangle 19.svg";
 const ProductCard = ({ item }) => {

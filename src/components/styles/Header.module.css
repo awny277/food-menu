@@ -179,6 +179,10 @@
 }
 
 @media (max-width: 767.98px) {
+  .rightLinks {
+    top: 10%;
+    bottom: unset;
+  }
   .image_container {
     width: 100%;
   }
