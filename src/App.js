@@ -1,3 +1,4 @@
+import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import Footer from "./components/Layout/Footer/Footer";
 import Navbar from "./components/Layout/Navbar/Navbar";
@@ -7,7 +8,9 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Home />
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
       <Footer />
     </div>
   );

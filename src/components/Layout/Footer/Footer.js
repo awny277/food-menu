@@ -6,11 +6,13 @@ const Footer = () => {
       <h2>
         Food <br /> <span>Empire</span>
       </h2>
-      <span>Best Fruits</span>
-      <span>Social Media</span>
-      <span>More for You</span>
-      <span>YourShoop</span>
-      <span>The Copyright 2022 guide covers 14 jurisdictions. </span>
+      <span className={styles.link}>Best Fruits</span>
+      <span className={styles.link}>Social Media</span>
+      <span className={styles.link}>More for You</span>
+      <span className={styles.link}>YourShoop</span>
+      <span className={styles.link}>
+        The Copyright 2022 guide covers 14 jurisdictions.{" "}
+      </span>
     </footer>
   );
 };

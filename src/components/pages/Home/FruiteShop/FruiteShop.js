@@ -14,7 +14,7 @@ const FruiteShop = () => {
   });
   return (
     <>
-      <div className={styles.Favoutrie}>
+      <div className={styles.Favoutrie} id="fruiteShop">
         <Container fluid>
           <div className={styles.header}>
             <h2>Favorite Fruits</h2>

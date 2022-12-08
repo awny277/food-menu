@@ -49,7 +49,7 @@ const About = () => {
     );
   });
   return (
-    <div className={styles.about}>
+    <div className={styles.about} id="about">
       <Container fluid>
         <div className={styles.header}>
           <h2>Abouts Us</h2>

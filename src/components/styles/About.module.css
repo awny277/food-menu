@@ -48,3 +48,8 @@
   margin: 0 5px;
   box-shadow:0px 0px 9px 1px rgb(211 211 211 / 50%);
 }
+@media (max-width: 767.98px) {
+  .icons div span {
+    margin: 0 2px;
+  }
+}

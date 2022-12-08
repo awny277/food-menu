@@ -40,3 +40,24 @@
   color: #898888;
   /* text-align: center; */
 }
+@media (max-width: 767.98px) {
+  .sub_heading {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .input_section  {
+    margin-bottom: 15px;
+  }
+  .input_section input{
+    width: 70%;
+  }
+  .input_section button {
+    width: 30%;
+  }
+  .Social_Media {
+    text-align: center;
+  }
+  .links svg {
+    margin: 4px 12px 4px 0px;
+  }
+}

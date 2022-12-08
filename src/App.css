@@ -1,0 +1,11 @@
+.offcanvas  {
+  width: 70% !important;
+}
+.offcanvas-header {
+  background-color: black;
+  border-bottom: 1px solid white ;
+
+}
+.offcanvas-body {
+  background-color: black;
+}
