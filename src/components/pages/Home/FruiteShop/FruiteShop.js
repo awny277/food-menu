@@ -7,7 +7,7 @@ import { FruitProducts } from "../../../json/Products";
 const FruiteShop = () => {
   const data = FruitProducts.map((ele, idx) => {
     return (
-      <Col md={3} key={idx}>
+      <Col sm={6} md={3} key={idx}>
         <ProductCard item={ele} />
       </Col>
     );
@@ -17,7 +17,7 @@ const FruiteShop = () => {
       <div className={styles.Favoutrie} id="fruiteShop">
         <Container fluid>
           <div className={styles.header}>
-            <h2>Favorite Fruits</h2>
+            <h2>Favorite Shop</h2>
             <span>
               more
               <HiOutlineArrowSmRight />

@@ -8,7 +8,7 @@ import { FavoutiteProducts } from "../../../json/Products";
 const Favoutrie = () => {
   const data = FavoutiteProducts.map((ele, idx) => {
     return (
-      <Col md={3} key={idx}>
+      <Col sm={6} md={3} key={idx}>
         <ProductCard item={ele} />
       </Col>
     );

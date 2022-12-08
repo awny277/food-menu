@@ -34,7 +34,7 @@ const Header = () => {
               <img src={image2} alt="pngwing" />
             </div>
           </Col>
-          <Col md={3}>
+          <Col md={4}>
             <div className={styles.section_2}>
               <h1>
                 Fruit <span>Fruit Mania</span> Delivery
