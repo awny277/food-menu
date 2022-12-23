@@ -6,7 +6,7 @@ export const FavoutiteProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19-2.svg",
+    image: "Rectangle 19-2.webp",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const FavoutiteProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 20-3.svg",
+    image: "Rectangle 20-3.webp",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const FavoutiteProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 21-2.svg",
+    image: "Rectangle 21-2.webp",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const FavoutiteProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 22-2.svg",
+    image: "Rectangle 22-2.webp",
   },
 ];
 
@@ -45,7 +45,7 @@ export const FruitProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19.svg",
+    image: "Rectangle 19.webp",
   },
   {
     id: 2,
@@ -54,7 +54,7 @@ export const FruitProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 20-1.svg",
+    image: "Rectangle 20.webp",
   },
   {
     id: 3,
@@ -63,7 +63,7 @@ export const FruitProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 21.svg",
+    image: "Rectangle 21.webp",
   },
   {
     id: 4,
@@ -72,7 +72,7 @@ export const FruitProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 22.svg",
+    image: "Rectangle 22.webp",
   },
   {
     id: 5,
@@ -81,7 +81,7 @@ export const FruitProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 19-1.svg",
+    image: "Rectangle 19-1.webp",
   },
   {
     id: 6,
@@ -90,7 +90,7 @@ export const FruitProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 20-2.svg",
+    image: "Rectangle 20-2.webp",
   },
   {
     id: 7,
@@ -99,7 +99,7 @@ export const FruitProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 21-1.svg",
+    image: "Rectangle 21-1.webp",
   },
   {
     id: 8,
@@ -108,7 +108,7 @@ export const FruitProducts = [
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     priceAfter: 39,
     pricePefor: 55,
-    image: "Rectangle 22-1.svg",
+    image: "Rectangle 22-1.webp",
   },
 ];
 
@@ -119,7 +119,7 @@ export const Partners = [
     stars: 5,
     info:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
-    image: "Ellipse 8.svg",
+    image: "Ellipse 8.webp",
     icon: 8,
   },
   {
@@ -128,7 +128,7 @@ export const Partners = [
     stars: 5,
     info:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
-    image: "Ellipse 8-1.svg",
+    image: "Ellipse 8-1.webp",
     icon: 8,
   },
   {
@@ -137,7 +137,7 @@ export const Partners = [
     stars: 5,
     info:
       "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
-    image: "Ellipse 8-2.svg",
+    image: "Ellipse 8-2.webp",
     icon: 8,
   },
 ];
