@@ -1,9 +1,9 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import styles from "../../../styles/Header.module.css";
-import Rectangle3 from "../../../../images/Rectangle 3.svg";
-import Rectangle4 from "../../../../images/Rectangle 4.svg";
-import image2 from "../../../../images/pngwing 1.svg";
+import Rectangle3 from "../../../../images/Rectangle 3.webp";
+import Rectangle4 from "../../../../images/Rectangle 4.delete my project";
+import image2 from "../../../../images/pngwing 1.delete my project";
 import { AiFillInstagram } from "react-icons/ai";
 import { FaFacebookSquare, FaTwitterSquare } from "react-icons/fa";
 
